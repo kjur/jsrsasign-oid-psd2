@@ -1,0 +1,44 @@
+{
+    "name": "jsrsasign-oid-psd2",
+    "version": "0.9.1",
+    "description": "jsrsasign add-on for EU PSD2 object identifier definitions",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kjur/jsrsasign-oid-psd2.git"
+    },
+    "keywords": [
+        "jsrsasign",
+        "objectidentifier",
+        "oid",
+        "eu",
+        "psd2",
+        "eidas"
+    ],
+    "author": "Kenji Urushima",
+    "homepage": "https://github.com/kjur/jsrsasign-oid-psd2/",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kjur/jsrsasign-oid-psd2/issues"
+    },
+    "dependencies": {
+        "jsrsasign": ">=10.5.2"
+    },
+    "devDependencies": {
+        "mocha": "*"
+    },
+    "funding": "https://github.com/kjur/jsrsasign#donations",
+    "badges": {
+        "list": [
+            "githubsponsors",
+            "crypto"
+        ],
+        "config": {
+            "githubSponsorsUsername": "kjur",
+            "cryptoURL": "https://github.com/kjur/jsrsasign#cryptocurrency"
+        }
+    }
+}
