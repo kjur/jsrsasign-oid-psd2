@@ -1,3 +1,5 @@
+[jsrsasign](https://github.com/kjur/jsrsasign/) | [npm](https://www.npmjs.com/package/jsrsasign-oid-psd2) | [OIDs](https://github.com/kjur/jsrsasign-oid-psd2/blob/main/lib/index.js) | [Other AddOn](https://github.com/kjur/jsrsasign/wiki/jsrsasign-Add-On)
+
 # jsrsasign-oid-psd2
 jsrsasign add-on to add object identifier definitions for EU Payment Services Directive (PSD2).
 
