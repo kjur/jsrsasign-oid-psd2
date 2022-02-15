@@ -8,7 +8,7 @@ require("jsrsasign-oid-psd2").addon(jsrsasign);
 ```
 
 ## OID definitions
-You can see them in the source code.
+You can see them in [the source code](https://github.com/kjur/jsrsasign-oid-psd2/blob/main/lib/index.js).
 
 ## Example
 ```JavaScript
